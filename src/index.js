@@ -4,6 +4,7 @@ import "./index.css";
 import App from "./App";
 
 ReactDOM.render(
+  //not a code
   <React.StrictMode>
     <App />
   </React.StrictMode>,
